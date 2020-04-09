@@ -1,0 +1,43 @@
+{
+  "name": "ios-printer-ble-cordova",
+  "version": "1.0.0",
+  "description": "Cordova plugin for brother label printers",
+  "cordova": {
+    "id": "ios-printer-ble-cordova",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sancsoft/ios-printer-ble-cordova.git"
+  },
+  "keywords": [
+    "brother",
+    "print",
+    "sdk",
+    "label",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": {
+    "cordova": ">=3.6.0",
+    "cordova-android": ">=6.0.0",
+    "android-sdk": ">=26",
+    "apple-ios": ">=10.0.0"
+  },
+  "author": "Thomas Gordon Lowrey IV",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sancsoft/ios-printer-ble-cordova/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/sancsoft/ios-printer-ble-cordova/issues"
+  },
+  "homepage": "https://github.com/sancsoft/ios-printer-ble-cordova#readme",
+  "license": "ISC"
+}
